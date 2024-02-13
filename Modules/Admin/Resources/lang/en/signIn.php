@@ -1,0 +1,25 @@
+<?php
+return [
+    'Arab Workers: Sign in to admin dashboard' => 'Arab Workers: Sign in to admin dashboard',
+'captcha_code' => 'Captcha Code',
+'refresh_captcha' => 'Refresh Captcha',
+'signInFormLine1' => 'Welcome to Arab Workers...',
+'signInFormLine2' => 'Please enter your login credentials',
+
+'Email Or Administrator Number' => 'Email or Admin Number',
+'password' => 'Password',
+'Remember me' => 'Remember Me',
+'Sign in' => 'Sign In',
+'browseTasks' => 'Browse Tasks',
+'createTask' => 'Create Task',
+'blog' => 'Lessons & Articles',
+'Error!' => 'Error!',
+'Success!' => 'Success!',
+'BackToHome' => 'Back to Home',
+'the email or administrative number is required' => 'Email or admin number is required',
+'the password is required' => 'Password is required',
+'the captcha code is required' => 'Captcha code is required',
+'the captcha code entered is incorrect' => 'Incorrect captcha code',
+'You have been successfully logged in by e-mail' => 'Successfully logged in by email',
+'You have been successfully logged in by administrative number' => 'Successfully logged in by admin number',
+];

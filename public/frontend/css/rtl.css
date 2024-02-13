@@ -1,0 +1,138 @@
+html{
+    direction: rtl;
+}
+html, body {margin: 0; height: 100%; overflow-x: hidden}
+body{
+    direction: rtl;
+  
+}
+.lang{
+    margin-left:10px
+  }
+  .data-people::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f053'; 
+    font-family: 'Font Awesome 5 Free';
+    
+}
+#sidebar .dropdown-toggle::after {
+    
+    text-align: center;
+    float: left;
+    vertical-align: 0;
+    border: 0;
+    margin-left: 5%;
+    font-weight: 900;
+    content: '\f107'; 
+    font-family: 'Font Awesome 5 Free';
+  }
+  .closebtn i{
+    left:4px
+    
+}
+.services  a::after ,.sub-profile-details::after  , .allblog .cap-blog button::after ,.readmore  .btn-style2::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f104'; 
+    font-family: 'Font Awesome 5 Free';
+    
+}
+
+.slick-slide{
+  float: right !important;
+}
+.task-border .border-img{
+  margin-left:4% !important
+}
+#sidebar ul li:hover a::after{
+  float: left;
+  vertical-align: 0;
+  border: 0;
+  margin-left: 5%;
+  font-weight: 900;
+}
+.star img {
+    left:-2%
+}
+.add-icon img{
+    left:2%
+}
+.investigation img{
+    margin-left: 2%;
+}
+.dataTables_wrapper .dataTables_paginate{
+    float:left;
+    text-align: left;
+  }
+  .page-item:first-child .page-link::before{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f061'; 
+    font-family: 'Font Awesome 5 Free';
+   padding: 0 0 0 11%;
+  
+  }
+  
+  .social{
+    margin-left: 9% !important;
+  }
+  .page-item:last-child .page-link::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f060'; 
+    font-family: 'Font Awesome 5 Free';
+    padding: 0 11% 0 0;
+  }
+  .info-form i{
+    margin-left: 3%;
+  
+  }
+  .walletlabel{
+
+    margin-left:3%;
+  }
+  #PrivilageRuler_filter{
+    right: 0;
+  }
+  .contactus-logo img{
+    left:-4%
+  }
+  .info-blog span{
+    margin-left:2% !important
+  }
+  .navbar .dropdown-toggle::after{
+   
+   
+    float:right;
+    right:-26px
+     }
+     .main-title{
+      margin-right: 4%;
+    }
+    .delete-item{
+      left:2%;
+     
+    }
+    .delete-data{
+      left: 0;
+    }
+    .complete-relation textarea{
+      background-color: #F6F6F6;
+
+    }
+  @media (max-width: 767px){
+    #sidebar{
+        right:0
+    }
+    .mobile-message{
+      right:0
+    }
+    .nav-small{
+      left:0
+    }
+    }

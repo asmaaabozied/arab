@@ -1,0 +1,75 @@
+body ,.contactus-bg ,.contactUsForm  ,#sidebar ul li a:hover ,.btn-style ,.blog-header .cap-blog ,.profits ,.Tasks-details{
+  
+ 
+    background:#EFEFEF;
+}
+.navbar{
+    background-color: white;
+
+}
+.navbar-collapse ,.card ,.profile-details ,#sidebar ul li.active > a, a[aria-expanded=true] ,.additional {
+    background-color: white;
+}
+.nav-link ,.contact-us-info span ,.articalTitle, .artical-data span{
+    color:black;
+}
+.subTitle ,.small-data ,.worker span ,.circle-big .text ,.addtaskdetails h5, .summary h5 ,.footer-item ,a{
+    color:#151515
+}
+.card-title2 ,.data-people  ,#sidebar ul li a:hover ,.profile-title {
+    background-color: white;
+    color:black
+}
+#PrivilageRuler tbody tr {
+    border-color: #dee2e6;
+}
+.empty-circle {
+
+    background-color:white ;
+    color: #463a7c;
+    border: 3px solid #463a7c;
+}
+.react i ,.btn-style ,.PrivilageRuler .page-link {
+    
+    color:#4E4187;
+}
+.summary button{
+    background-color: rgb(241, 236, 236);
+}
+.blog-data a{
+    background: #ecf2f9;
+}
+.PrivilageRuler ,.Tasks-details{
+    box-shadow: 4px 4px 4px 4px #e9ecef;
+}
+.info-blog span{
+    background: #C2EAF1;
+}
+.card2{
+    background-color: white;
+}
+.opioion p{
+    color:#151515
+}
+.view-task-card{
+    background-color: white;
+   }
+   .opioion textarea{
+
+    background-color: #EFEFEF;
+   }
+   .additional {
+    background-color: #EFEFEF;
+   }
+   .additional input[type='number']{
+    background-color:#EFEFEF;
+    border-radius: 10px;
+  }
+  .Title{
+    color: #463a7c;
+  }
+@media (max-width: 767px) {
+    body{
+        background-color:#EFEFEF;
+    }
+}

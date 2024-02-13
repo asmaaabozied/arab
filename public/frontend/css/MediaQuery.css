@@ -1,0 +1,640 @@
+/*for Mobile*/
+
+@media (max-width: 767px) {
+  .navbar{
+   }
+  .card2{
+    margin-bottom: 5%;
+    margin-top:5%;
+    padding: 8%;
+  }
+  .full-img{
+  height: 200px;
+  background-image: url('../assets/img/Frame\ 241\ \(2\).png');
+  background-size: contain;
+  border-radius: 20px;
+  }
+
+  .product-detail button{
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+    /* margin: 2%; */
+    width: 150px !important;
+    right: 0;
+    margin: auto;
+  }
+  .product-detail{
+    height:160px
+  }
+
+  .cicle1 h4{
+    font-size: 10px;
+  }
+  .search-input-small{
+   list-style-type: none;
+   margin-top:5%
+  }
+  .lang-item{
+    display: flex;
+    flex-direction: row;
+
+  }
+  .lang-item .nav-item{
+    line-height: 25px !important;
+  }
+  .mobile-message img{
+    margin:auto
+  }
+  .nav-item{
+    line-height: 40px;
+  }
+  .lang , .dark{
+
+    line-height: 15px;
+
+  }
+  .lang button ,.dark button{
+    width:50%
+  }
+  .navbar-toggler{
+    background-color: transparent;
+  }
+  .logo-img{
+    display: none;
+
+  }
+  .nav-search .search-mobile{
+    padding: 5%
+  }
+  .allblog .blog-header .cap-blog{
+
+    margin:0 5%;
+    width: 90%;
+  }
+
+  .register ,.googlre-register ,  .login-back ,.login-title1 ,.login-title{
+
+    display: none !important;
+  }
+  .sub-title{
+    color:rgb(60, 57, 57)
+  }
+  table.dataTable thead th, table.dataTable thead td{
+    font-size: 15px !important;
+  }
+  .youtub-bg{
+    display: none;
+  }
+  .sidebar-collapse{
+    margin-bottom: 2%;
+  }
+  .sidebarmenu{
+
+
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color:#463a7c;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow .15s ease-in-out;
+    width: auto !important;
+    float: left;
+
+  }
+    .navbar{
+      height:auto
+  }
+  .mobile-message{
+    position: absolute;
+    top:6px;
+
+  }
+   .openbtn{
+        display: block;
+    }
+  .nav-small-collapse{
+    margin-top: 10%;
+    padding: 5%;
+    background-color: white;
+  }
+
+    .navbar-toggler i{
+        color:rgb(0, 0, 0);
+        font-size: 18px !important;
+
+    }
+    .search-mobile {
+      position: absolute;
+      right:0;
+      top:100%
+    }
+    .col-sm-3 ,.col-xs-3{
+      width:25%
+    }
+    .nav-small{
+      position: absolute;
+      top:2px;
+
+    }
+    .nav-small i{
+      padding: 5%;
+    }
+    .profile{
+      display: none;
+    }
+    .sub-profile-details{
+        margin-bottom: 5%;
+    }
+    .nav-link:hover{
+        box-shadow: none;
+    }
+    .closebtn{
+        display: block;
+    }
+    #sidebar{
+       display:none;
+       width:70%;
+    background: white;
+    z-index: 10000;
+    top:10%; right:0;
+    position: absolute;
+    padding: 5% !important;
+
+    }
+    #sidebar.active {
+      margin-left: 0;
+    }
+
+    #sidebarCollapse span {
+      display: none;
+    }
+    .navbar{
+        height:auto !important
+    }
+      .youtub-bg{
+        margin-top:5%
+      }
+      .addtaskdetails .card ,.react .card{
+        margin-bottom: 3%;
+      }
+        .col-sm-12{
+            width:100% !important;
+
+        }
+        .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+            padding: 0;
+        }
+        .image{
+            margin-bottom: 10px;
+        }
+        .btn-style{
+            width:100%;
+
+            margin-right:0
+        }
+        .circle, .empty-circle{
+            width:150px;
+            height:150px;
+            margin-bottom: 20%;
+
+        }
+        .profile img{
+            margin-right:10px;
+            margin-top:0 !important
+          }
+          .navbar{
+            height:auto
+        }
+         .openbtn{
+              display: block;
+          }
+
+          .sub-profile-details{
+              margin-bottom: 5%;
+          }
+          .nav-link:hover{
+              box-shadow: none;
+          }
+          .closebtn{
+              display: block;
+          }
+          #sidebar{
+             display:none;
+
+          background: white;
+          z-index: 10000;
+          position: absolute;
+          padding: 4%;
+          top:0
+
+
+
+          }
+          #sidebar.active {
+            margin-left: 0;
+          }
+
+          #sidebarCollapse span {
+            display: none;
+          }
+          .contactus{
+            margin-top:19%
+
+          }
+          .footer-item{
+            font-size: 10px;
+            white-space: nowrap;
+          }
+          .col-sm-6{
+            width:50%
+          }
+          .artical-public li{
+            font-size: 12px;
+          }
+          .col-sm-4 ,.col-xs-4{
+            width:33.33%
+          }
+
+
+          .col-sm-8
+          {flex:0 0 auto;width:66.66666667%}
+
+          .Artical , .frequency{
+            padding: 4%;
+          }
+         .header-main{
+            margin-top:5%;
+            text-align: center;
+         }
+         .start{
+            width: 100%;
+         }
+         .profile-details{
+          padding: 4%;
+         }
+         .border-button{
+          width: 100%;
+         }
+         .border-button span ,.border-button i{
+          font-size: 10px;
+         }
+         .profile-details h4{
+          font-size: 18px;
+         }
+         .profile-details p{
+          font-size: 12px;
+         }
+         .categoryTask .form-select{
+          margin-bottom: 3%;
+         }
+         .sidebar-header{
+          display: none;
+         }
+         .language{
+          margin-top:20%
+         }
+
+         .sidebarmenu{
+          margin-top:0 !important;
+
+         }
+         #sidebar ul li a{
+          line-height: 70px;
+
+          font-weight: bold;
+          font-weight: bold;
+    font-size: 20px;
+    color: #151515;
+
+         }
+         .sidebarmenu{
+          background-color: transparent;
+          color:black
+
+         }
+         .sidebar-data {
+          margin-right:15px
+         }
+
+
+         .mession-div .form-control ,.mession-div .form-select{
+          background-color: transparent;
+         }
+         .border-button img {
+          width:10px;
+          height:10px
+
+         }
+         .task-border .border-img{
+          width:32px;
+          height: 32px;
+         }
+         .product-detail button{
+          font-size: 8px;
+         }
+         .task-border .Title{
+          font-size: 15px;
+         }
+         .registery h2{
+          white-space: normal;
+          margin-top:40;
+          font-size: 18px;
+
+        }
+      .registery img{
+        width:100px
+
+        }
+        .dataTables_wrapper .dataTables_paginate{
+          float:right;
+          text-align: right;
+        }
+        .complete-relation{
+          padding: 10%;
+        }
+  }
+ /*for tablet */
+  @media (max-width:1200px) and (min-width:600px) {
+    .Sublogin-back1{
+      display: none;
+    }
+    phone-register{
+      display: none;
+    }
+    .social img{
+        width:30px
+
+    }
+    .footer-item{
+        white-space: nowrap ;
+        font-size: 15px !important;
+    }
+    .circle, .empty-circle{
+        width:150px !important;
+        height:150px !important;
+        margin-bottom: 20%;
+
+    }
+    .card-title span, .card-title2 span{
+        font-size: 10px;
+
+    }
+    .card-title .material-icons{
+        font-size: 10px;
+
+
+    }
+    .btn-style{
+        font-size: 15px !important;
+        width:100% !important;
+        margin-right:0
+    }
+    .navbar-collapse{
+        background-color: white;
+    }
+    .worker  span{
+        font-size: 18px !important;
+
+    }
+    .worker i, .card-title2 i{
+        font-size: 18px !important;
+    }
+    .start{
+        width:100% !important
+
+    }
+    .profile img{
+        margin-right:10px;
+        margin-top:0 !important
+      }
+
+
+
+    }
+/*for Desktop*/
+@media (min-width:600px) {
+   .categoty {
+    padding: 1rem!important;
+   }
+
+  .categoryTask .avliable-select{
+
+    width:14.28%
+  }
+  .product-detail button{
+    width: 180px !important
+    ;
+    font-weight: 100;
+  }
+  .nav-first{
+    margin:auto
+  }
+  .left-item .lang{
+    margin-left:6% !important
+
+  }
+
+  .search-input-small{
+    display: none;
+
+  }
+
+  .header-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+  .header-navbar .nav-item input{
+
+    width:200px
+  }
+  .navbar-collapse{
+    width:80%
+  }
+
+  /*.header-navbar .nav-item{
+    margin:auto;
+    float: right;
+
+    color: white;
+
+    font-size: 17px;
+
+    text-align: center;
+    white-space: nowrap;
+    width:10%
+
+
+  }
+  .left-item .lang , .left-item .dark{
+    width: auto !important;
+  }
+  .nav-first{
+    width:6% !important
+  }
+  .search-input{
+    width:20% !important
+  }
+
+  .dropdown profile{
+    width:12%
+  }*/
+  .nav-search{
+    width:100%;
+    margin-left:5%
+  }
+  .earch-input{
+    margin:auto;
+    margin-left:8%
+  }
+  .mobile-message{
+    display: none !important;
+  }
+  .dashboard{
+    margin-top:5%
+  }
+  .border-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:30%
+
+  }
+
+  .categoty{
+
+    display: flex;
+    flex-direction: row;
+  }
+  .profile-details{
+    padding-left: 3rem!important;
+    padding-right: 3rem!important;
+
+  }
+
+  .categoryTask {
+    display: flex;
+    flex-direction: row;
+    padding-left: 0!important;
+    padding-right: 0!important;
+    padding:0 !important;
+    margin-top:5%
+
+  }
+  .blog-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #f9fafb;
+    margin-bottom: 4%;
+   }
+  .data-Title{
+
+  margin-top: 25%;
+
+  }
+  .Question-img{
+    height:300px;
+    margin:auto;
+    display: table;
+    }
+  .email-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+  }
+  .blog-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+   }
+   .sidebar-collapse{
+    display: none !important;
+   }
+   .logo{
+    display: none;
+   }
+   #sidebar{
+    margin-top:28%
+   }
+   .home{
+    display: none
+
+   }
+   .homepage{
+    display: none;
+   }
+   #sidebar ul.components{
+    background-color: transparent !important;
+   }
+   .youtub-img{
+    display: none;
+
+   }
+
+   .addTaskMession .form-group label{
+    white-space: nowrap;
+   }
+.profit-padding{
+  padding: 5%;
+}
+.phone-register{
+  display: none !important;
+}
+.login-title2{
+  display: none;
+}
+.city{
+  margin-top: 55%;
+}
+.mobilr-data{
+  display: none
+}
+.card-color2 .card-body{
+  height: 300px;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.task-border .border-img{
+
+  margin: auto 0;
+}
+.view-task{
+  margin: auto;
+}
+.opioion{
+  padding:4%
+}
+.file-upload{
+  display: block !important
+}
+.achieve ,.tasks-button{
+
+  width: 250px;
+  padding: auto;
+  font-size: 12PX;
+
+}
+.data-img{
+  display: none;
+
+}
+.full-img{
+  background-image: url('../assets/img/pic\ \(4\).png');
+  background-size: cover;
+ }
+ .border-button{
+  width:110px !important
+}
+.Sublogin-back1{
+  display: none;
+}
+}

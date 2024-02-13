@@ -1,0 +1,22 @@
+{
+    "Dashboard": true,
+    "Admin": true,
+    "Employer": true,
+    "Worker": true,
+    "Task": true,
+    "Region": true,
+    "Category": true,
+    "Transaction": true,
+    "Setting": true,
+    "Role": true,
+    "Mail": true,
+    "DiscountCode": true,
+    "Support": true,
+    "SwitchAccount": true,
+    "Google": true,
+    "Privilege": true,
+    "Currency": true,
+    "Api": true,
+    "LandingPage": true,
+    "Home": true
+}

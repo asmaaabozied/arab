@@ -1,0 +1,131 @@
+
+html{
+    direction: ltr;
+}
+html, body {margin: 0; height: 100%; overflow-x: hidden}
+body{
+    direction: ltr;
+   
+}
+.lang{
+    margin-right: 10px;
+
+}
+.data-people::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f054'; 
+    font-family: 'Font Awesome 5 Free';
+    
+}
+
+
+
+#sidebar .dropdown-toggle::after{
+   
+    text-align: center;
+    float: right;
+    vertical-align: 0;
+    margin-right: 5%;
+    border: 0;
+    font-weight: 900;
+      content: '\f107'; 
+
+    font-family: 'Font Awesome 5 Free';
+}
+.closebtn i{
+    right:4px
+    
+}
+.services  a::after ,.sub-profile-details::after ,.allblog .cap-blog button::after ,.readmore  .btn-style2::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f105'; 
+    font-family: 'Font Awesome 5 Free';
+    
+}
+.star img {
+    right:-2%;
+    rotate: 180deg;
+}
+.add-icon img{
+    right:2%
+}
+.investigation img{
+    margin-right: 2%;
+}
+.dataTables_wrapper .dataTables_paginate{
+    float:right;
+    text-align: right;
+  }
+  .page-item:first-child .page-link::before{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f060'; 
+    font-family: 'Font Awesome 5 Free';
+    padding: 0 11% 0 0;
+  
+  }
+  .social{
+    margin-right: 9% !important;
+  }
+  .page-item:last-child .page-link::after{
+    vertical-align: 0;
+    border: 0;
+    font-weight: 900;
+    content: '\f061'; 
+    font-family: 'Font Awesome 5 Free';
+    margin-left : 2%;
+    padding: 0 0 0 11%;
+
+  }
+  .walletlabel{
+
+    margin-right:3%;
+  }
+  .info-form i{
+    margin-right: 3%;
+  }
+  #PrivilageRuler_filter{
+    left:0
+  }
+  .contactus-logo img{
+    right:-4%
+  }
+  .main-title{
+    margin-left: 4%;
+  }
+ 
+  .navbar .dropdown-toggle::after{
+   
+   
+    float:right;
+    right:-26px
+     }
+     .info-blog span{
+      margin-right: 2% !important;
+     }
+     .task-border .border-img{
+      margin-right:4% !important
+    }
+    .delete-item{
+      right:2%;
+     
+    }
+    .delete-data{
+      right: 0;
+    }
+@media (max-width: 767px){
+#sidebar{
+    left:0
+}
+.mobile-message{
+  left:0
+}
+.nav-small{
+  right:0
+}
+}

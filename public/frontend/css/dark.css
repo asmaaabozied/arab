@@ -1,0 +1,49 @@
+body ,.additional ,.addtional-button .btn-delete , .summary button ,.dropdown-menu ,.contactus-bg ,
+.contactUsForm ,.btn-style2 ,.btn-style ,.blog-data a ,.blog-header .cap-blog ,table.dataTable tbody tr ,
+.page-item.disabled .page-link ,.PrivilageRuler .page-link ,.profits 
+  
+{
+    
+    background-color: #151515;
+}
+.navbar ,.navbar-collapse ,.card , .data-people ,.empty-circle ,.profile-details ,
+#sidebar ul li.active > a, a[aria-expanded=true] ,.form-select ,bled, .form-control[readonly] ,#sidebar ul li a:hover ,.Tasks-details ,.card2,.view-task-card {
+   
+    background-color: #2C2C2C;
+
+}
+#PrivilageRuler tbody tr {
+    border-color:#2C2C2C
+}
+
+.form-control ,.info-blog span{
+    background-color:  #2C2C2C;;
+}
+.nav-link ,.subTitle ,.small-data ,.worker span ,.circle-big .text ,.card-title2 
+,.Artical .card .card-name ,.card p ,.data-people ,.footer-item ,.footer-item a ,
+.task-border ,.border-button span ,#sidebar ul li.active > a, a[aria-expanded=true] 
+,.form-select ,.addtaskdetails h5, .summary h5 ,.react span ,.react i ,.addTaskMession .form-group label
+ ,.mession div ,.form-control ,.addtional-button .btn-delete ,.question-style span ,.material-icons ,.dropdown-menu ,.contactus-bg
+ .contact-us-info ,.contact-us-info span ,.investigation h4, .investigation h6, 
+ .investigation span ,#sidebar ul li a:hover ,.btn-style2 ,.profile-title ,.blog-data a ,
+ .blog-header .cap-blog ,.artical-public li ,.articalTitle, 
+ .artical-data span ,table.dataTable tbody tr ,.page-item.disabled .page-link ,.profits ,.Tasks-details ,.sub-profits .btn-style ,.blog span ,.steps ,.bottom-footer p ,.Title ,.summary button ,.profile span{
+    
+    
+    color:#EFEFEF !important
+}
+.search ,.summary button ,label, input, a, .text-inline{
+    color:#4e4187
+}
+.empty-circle {
+
+    background-color:#2C2C2C !important;
+    color:white !important;
+    border: 3px solid #463a7c !important;
+}
+.PrivilageRuler ,.Tasks-details{
+    box-shadow: 4px 4px 4px 4px #111;
+}
+.cicle1 .cap{
+    color:white
+}

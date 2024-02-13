@@ -1,0 +1,11 @@
+{
+    "name": "SwitchAccount",
+    "alias": "switchaccount",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SwitchAccount\\Providers\\SwitchAccountServiceProvider"
+    ],
+    "files": []
+}
